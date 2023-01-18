@@ -1,6 +1,3 @@
-# my-static-website
-AWS Cloud DevOps Static Website Hosting
-
 -URLs for my Static Website-
 
 S3 Bucket's web hosting URL: http://my-505359929638-bucket.s3-website.us-east-2.amazonaws.com
